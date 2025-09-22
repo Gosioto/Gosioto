@@ -4,6 +4,12 @@
 
 ### 🚀 Frontend Developer с наклонностями Backend
 
+<div align="center">
+
+[![Freelance Website](https://img.shields.io/badge/🌐_Мой_сайт-FF6B6B?style=for-the-badge&logo=globe&logoColor=white&labelColor=FF6B6B)](https://gosioto.github.io/freelance/)
+
+</div>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gosioto.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gosioto@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@G0SL0T0)
